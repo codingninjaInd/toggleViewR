@@ -1,0 +1,41 @@
+body{
+
+	margin: 0px;
+	padding: 0px;
+}
+
+#toggle-container{
+
+	height: 20px;
+	width: 100px;
+	border: 2px solid black;
+	border-radius: 4rem;
+	margin: 20px auto;
+
+	background-color: white;
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+
+}
+
+#toggle{
+
+	height: 10px;
+	width: 10px;
+	border:2px solid black;
+border-radius: 50%;
+background-color: black;
+}
+
+p{
+
+	font-size: 50px;
+	text-align: center;
+}
+
+#toggle:hover{
+
+	cursor: pointer;
+}
+
